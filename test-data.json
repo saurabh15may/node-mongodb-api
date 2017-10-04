@@ -1,0 +1,14 @@
+{
+   "first_name":"Saurabh",
+   "last_name":"Kumar",
+   "mobile_number":414395603,
+   "email":"saurabhkr0@gmail.com",
+   "skills":[
+      "Java",
+      "Node.js",
+      "ReactJS",
+      "MongoDB",
+      "AWS"
+   ],
+   "isProfileComplete":true
+}

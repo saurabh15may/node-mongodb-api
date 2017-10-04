@@ -1,0 +1,16 @@
+*.class
+/build/
+/bin/
+node_modules/
+/.settings/
+.project
+.classpath
+.settings
+.vscode
+target
+
+# Package Files
+*.jar
+*.war
+*.ear
+
